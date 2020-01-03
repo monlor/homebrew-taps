@@ -14,6 +14,6 @@ class HcfPack < Formula
   end
 
   test do
-    File.exist?("#{bin}/osxiso")
+    File.exist?("#{bin}/hcfpack")
   end
 end
