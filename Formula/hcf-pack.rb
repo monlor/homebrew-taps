@@ -5,9 +5,9 @@ class HcfPack < Formula
   sha256 "8bf586f28a05b630ed3d7dfa0a23a98113d9dc6abc43bd0ae1dfb309704889c0"
   head "https://github.com/monlor/hcf-pack.git"
 
-  depends_on :rancher-cli => :recommended
-  depends_on :kubectl => :recommended
-  depends_on :docker => :optional
+  depends_on "rancher-cli" => :recommended
+  depends_on "kubectl" => :recommended
+  depends_on "docker" => :optional
 
   def install
     bin.install "hcfpack"
