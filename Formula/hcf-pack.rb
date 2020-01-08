@@ -1,8 +1,8 @@
 class HcfPack < Formula
   desc "Automatically publish React or Maven project to Rancher."
   homepage "https://github.com/monlor/hcf-pack"
-  url "https://github.com/monlor/hcf-pack/archive/v1.5.3.tar.gz"
-  sha256 "582b295adcff5342f7abb4cff6110bca2aeb9f2fcab7e7c28884aaf9e522b9e0"
+  url "https://github.com/monlor/hcf-pack/archive/v1.5.4.tar.gz"
+  sha256 "41803e4856a15bf6c8355bb83b7817e8c70bebe8bdaaa3ff84d7bf874c23a8ea"
   head "https://github.com/monlor/hcf-pack.git"
 
   depends_on "rancher-cli" => :recommended
