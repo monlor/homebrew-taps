@@ -6,7 +6,7 @@ class MonlorUtils < Formula
   sha256 "279ecb34b304172df46daecfcc98f406a54f48efc5dea138e0795b0871bbcbcf"
 
   def install
-    bin.install "./*"
+    bin.install "shellchan"
   end
 
 end
