@@ -1,8 +1,8 @@
 class HcfUpgrade < Formula
   desc "Upgrade HCF project from source env to target env."
   homepage "https://github.com/monlor/hcf-upgrade"
-  url "https://github.com/monlor/hcf-upgrade/archive/v0.0.1.tar.gz"
-  sha256 "7dc7d6837044eb592ff9794a55d82c743b0c6594458870337c74c464de635800"
+  url "https://github.com/monlor/hcf-upgrade/archive/v0.0.2.tar.gz"
+  sha256 "d70da70761496e85557f7b4b3d9c5704cc090cb5b38e18a8b318f879f60d8244"
   head "https://github.com/monlor/hcf-upgrade.git"
 
   depends_on "rancher-cli" => :recommended
