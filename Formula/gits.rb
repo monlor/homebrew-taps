@@ -1,4 +1,4 @@
-class GitPush < Formula
+class Gits < Formula
   desc "Enhanced git."
   homepage "https://github.com/monlor/gits"
   url "https://github.com/monlor/gits/archive/v0.0.2.tar.gz"
