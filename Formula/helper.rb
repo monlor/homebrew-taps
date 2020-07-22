@@ -1,8 +1,8 @@
 class Helper < Formula
   desc "Shell helper tools."
   homepage "https://github.com/monlor/shell-helper"
-  url "https://github.com/monlor/shell-helper/archive/v0.0.1.tar.gz"
-  sha256 "1d83dda5488e20adbaeec4f56f289c7d5f9d8d477bde5ba7211f7e5f6c6c3e11"
+  url "https://github.com/monlor/shell-helper/archive/v0.0.2.tar.gz"
+  sha256 "6a1b98fbe74ea76fe069aaf9cfa7c5dd9c723019d2e5b4b075afc4f753df065d"
   head "https://github.com/monlor/shell-helper.git"
 
   def install
