@@ -5,7 +5,7 @@ class Gits < Formula
   sha256 "37cde83d256708bc73d05a58b54d047b1c2df0531346543483d67d98ab18cc95"
 
   depends_on "github-release" => :recommended
-  depends_on "helper" => :recommended
+  depends_on "shell-helper" => :recommended
 
   def install
     bin.install "gits"
