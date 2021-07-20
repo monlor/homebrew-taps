@@ -1,8 +1,8 @@
 class Gits < Formula
   desc "Enhanced git."
   homepage "https://github.com/monlor/gits"
-  url "https://github.com/monlor/gits/archive/v0.0.7.tar.gz"
-  sha256 "e10fa53b26e8bb2499e56297e5c25fea206397a18132620cff39bdbaaac87796"
+  url "https://github.com/monlor/gits/archive/v0.0.8.tar.gz"
+  sha256 "37cde83d256708bc73d05a58b54d047b1c2df0531346543483d67d98ab18cc95"
 
   depends_on "github-release" => :recommended
   depends_on "helper" => :recommended
