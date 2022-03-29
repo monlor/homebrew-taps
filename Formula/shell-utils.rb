@@ -1,5 +1,5 @@
-$version = "v0.0.6"
-$hash = "f2bfac208300d9ec9439b95c808d788d2430112df635741f1f1fdfc60aa11177"
+$version = "v0.0.7"
+$hash = "ee74f7f874b78ad7e4964f3528ddac9be2b0e18ef992e6a54d9631465e8c0358"
 
 class ShellUtils < Formula
   desc "Shell utils."
