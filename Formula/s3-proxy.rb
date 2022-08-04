@@ -1,5 +1,5 @@
-$version = "v0.0.2"
-$hash = "20acec0e2f37b741b3701182f8aacccd0ad665ed5d7c95871a58d6219ed16a5a"
+$version = "v0.0.3"
+$hash = "3187efc6477e91bc175254aa1a27e4df40503ad34b914725e8ebcd88cb9ac226"
 
 class S3Proxy < Formula
   desc "S3 Proxy Command Line Tool."
