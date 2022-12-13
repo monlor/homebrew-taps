@@ -1,4 +1,4 @@
-$version = "v0.0.2"
+$version = "v0.0.3"
 
 class SpugCli < Formula
   desc "Spug command line tool."
