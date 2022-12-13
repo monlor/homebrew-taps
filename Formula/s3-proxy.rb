@@ -6,7 +6,6 @@ class S3Proxy < Formula
   version $version
   homepage "https://github.com/monlor/s3-proxy"
   url "https://github.com/monlor/s3-proxy/raw/#{version}/s3-proxy"
-  sha256 $hash
 
   depends_on "jq" => :recommended
 
